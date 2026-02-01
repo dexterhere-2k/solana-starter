@@ -32,3 +32,22 @@ An Associated Token Account was created to safely hold and manage the tokens min
 | **Token Transfer** | `DXg8Av8nqkbkmuEfJXLZDA5sVXaLYhovg1AMn2fvFhy448fPhvz6yhFzmJyE1XB6aokKwggta4QRJ6h9byn1Zn4` |
 
 ---
+## 🚀 Setup & Installation
+
+### Prerequisites
+* Node.js (v16 or higher)
+* Yarn package manager
+* Solana CLI tools
+* A Solana wallet with Devnet SOL
+
+### Installation
+
+
+   ```bash
+   yarn install
+   solana config set --url devnet
+   ```
+---
+### Redirect Links
+* **Solana Explorer (Token View):**  [View Token on Devnet](https://explorer.solana.com/address/BLaHVG932rCdqXwTQAKRSGzyisH5hvkLqSVen21gVUiP?cluster=devnet)
+   
